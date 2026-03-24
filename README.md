@@ -2,6 +2,8 @@
 
 **RMIT University Capstone Thesis** – Smart Heal Healthcare  
 **Model Accuracy: 94%** | TensorFlow CNN | Flask API | Shiny Prototype
+**Download trained model (500 MB):** [wound_classification_cnn.h5](https://drive.google.com/file/d/1ICq9lEfFwDVobtnbUxla5GeCwKbJFaZc/view?usp=drive_link)
+
 
 ## Project Overview
 Developed an end-to-end AI system that classifies chronic wound images (Stage 1–3, Infected, Necrotic) and provides personalised treatment recommendations (Hydrocolloid, Alginate, Foam dressings, Antimicrobial). Addresses a major Australian healthcare challenge, 50,000+ people living with foot ulcers.
